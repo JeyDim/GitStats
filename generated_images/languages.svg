@@ -154,7 +154,7 @@
 
           <div>
             <span class="progress">
-              <span style="background-color: #178600;width: 39.52528%;" class="progress-item"></span><span style="background-color: #e38c00;width: 24.02424%;" class="progress-item"></span><span style="background-color: #e34c26;width: 16.79329%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 11.23421%;" class="progress-item"></span><span style="background-color: #663399;width: 2.76226%;" class="progress-item"></span><span style="background-color: #c6538c;width: 2.37469%;" class="progress-item"></span><span style="background-color: #9400ff;width: 1.64699%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 0.44812%;" class="progress-item"></span><span style="background-color: #00B4AB;width: 0.42708%;" class="progress-item"></span><span style="background-color: #336790;width: 0.29973%;" class="progress-item"></span><span style="background-color: #3178c6;width: 0.29695%;" class="progress-item"></span><span style="background-color: #012456;width: 0.10713%;" class="progress-item"></span><span style="background-color: #ff5a03;width: 0.02081%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.01634%;" class="progress-item"></span><span style="background-color: #427819;width: 0.00929%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.00753%;" class="progress-item"></span><span style="background-color: #41b883;width: 0.00525%;" class="progress-item"></span><span style="background-color: #ecdebe;width: 0.00059%;" class="progress-item"></span><span style="background-color: #A97BFF;width: 0.00010%;" class="progress-item"></span><span style="background-color: #6a40fd;width: 0.00004%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.00003%;" class="progress-item"></span><span style="background-color: #438eff;width: 0.00003%;" class="progress-item"></span>
+              <span style="background-color: #178600;width: 39.52636%;" class="progress-item"></span><span style="background-color: #e38c00;width: 24.01724%;" class="progress-item"></span><span style="background-color: #e34c26;width: 16.79463%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 11.23789%;" class="progress-item"></span><span style="background-color: #663399;width: 2.76148%;" class="progress-item"></span><span style="background-color: #c6538c;width: 2.37435%;" class="progress-item"></span><span style="background-color: #9400ff;width: 1.64651%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 0.44799%;" class="progress-item"></span><span style="background-color: #00B4AB;width: 0.42685%;" class="progress-item"></span><span style="background-color: #3178c6;width: 0.29977%;" class="progress-item"></span><span style="background-color: #336790;width: 0.29964%;" class="progress-item"></span><span style="background-color: #012456;width: 0.10710%;" class="progress-item"></span><span style="background-color: #ff5a03;width: 0.02099%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.01634%;" class="progress-item"></span><span style="background-color: #427819;width: 0.00929%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.00753%;" class="progress-item"></span><span style="background-color: #41b883;width: 0.00525%;" class="progress-item"></span><span style="background-color: #ecdebe;width: 0.00059%;" class="progress-item"></span><span style="background-color: #A97BFF;width: 0.00010%;" class="progress-item"></span><span style="background-color: #6a40fd;width: 0.00004%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.00003%;" class="progress-item"></span><span style="background-color: #438eff;width: 0.00003%;" class="progress-item"></span>
             </span>
           </div>
 
@@ -233,7 +233,7 @@
                         JavaScript
                     </span>
                     <span class="percent">
-                        11.23%
+                        11.24%
                     </span>
             </li>
             <li style="animation-delay: 600ms;">
@@ -334,25 +334,6 @@
             <li style="animation-delay: 1350ms;">
                     <svg xmlns="http://www.w3.org/2000/svg" 
                          class="octicon" 
-                         style="fill:#336790;"
-                         viewBox="0 0 16 16" 
-                         version="1.1" 
-                         width="16" 
-                         height="16">
-                            <path fill-rule="evenodd" 
-                                  d="M8 4a4 4 0 100 8 4 4 0 000-8z">
-                            </path>
-                    </svg>
-                    <span class="lang">
-                        PLpgSQL
-                    </span>
-                    <span class="percent">
-                        0.30%
-                    </span>
-            </li>
-            <li style="animation-delay: 1500ms;">
-                    <svg xmlns="http://www.w3.org/2000/svg" 
-                         class="octicon" 
                          style="fill:#3178c6;"
                          viewBox="0 0 16 16" 
                          version="1.1" 
@@ -364,6 +345,25 @@
                     </svg>
                     <span class="lang">
                         TypeScript
+                    </span>
+                    <span class="percent">
+                        0.30%
+                    </span>
+            </li>
+            <li style="animation-delay: 1500ms;">
+                    <svg xmlns="http://www.w3.org/2000/svg" 
+                         class="octicon" 
+                         style="fill:#336790;"
+                         viewBox="0 0 16 16" 
+                         version="1.1" 
+                         width="16" 
+                         height="16">
+                            <path fill-rule="evenodd" 
+                                  d="M8 4a4 4 0 100 8 4 4 0 000-8z">
+                            </path>
+                    </svg>
+                    <span class="lang">
+                        PLpgSQL
                     </span>
                     <span class="percent">
                         0.30%
